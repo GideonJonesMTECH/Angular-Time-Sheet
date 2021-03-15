@@ -2,7 +2,6 @@ table {
   border-collapse: collapse;
   th {
     border-bottom: 1px solid black;
-    text-transform: capitalize;
 
     &:not(:first-child) {
       padding-left: 15px;
