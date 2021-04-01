@@ -16,7 +16,6 @@ export class AnalyticsTableComponent implements OnInit {
       {
           departmentId: '1',
           friday: 6,
-          id: '1',
           monday: 4,
           name: 'a',
           payRate: 70,
@@ -29,7 +28,6 @@ export class AnalyticsTableComponent implements OnInit {
       {
           departmentId: '1',
           friday: 2,
-          id: '2',
           monday: 4,
           name: 'b',
           payRate: 63,
@@ -42,7 +40,6 @@ export class AnalyticsTableComponent implements OnInit {
       {
           departmentId: '2',
           friday: 9,
-          id: '3',
           monday: 8,
           name: 'c',
           payRate: 76,
@@ -55,7 +52,6 @@ export class AnalyticsTableComponent implements OnInit {
       {
           departmentId: '3',
           friday: 2,
-          id: '4',
           monday: 3,
           name: 'd',
           payRate: 56,
